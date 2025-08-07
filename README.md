@@ -4,8 +4,3 @@
 <img src="https://github.com/user-attachments/assets/284bd1b7-5baf-4f28-96ea-be4e778cfbe4" alt="Yoga Screen 2" width="300"/>
 
 
-<div align="center">
-  <img src="URL1" width="300"/>
-  <img src="URL2" width="300"/>
-</div>
-
