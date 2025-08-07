@@ -1,16 +1,11 @@
 # pose
 
-A new Flutter project.
+<img src="https://github.com/user-attachments/assets/63cdbe6b-0419-463d-9512-db96e37f7836" alt="Yoga Screen 1" width="300"/>
+<img src="https://github.com/user-attachments/assets/284bd1b7-5baf-4f28-96ea-be4e778cfbe4" alt="Yoga Screen 2" width="300"/>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img src="URL1" width="300"/>
+  <img src="URL2" width="300"/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
