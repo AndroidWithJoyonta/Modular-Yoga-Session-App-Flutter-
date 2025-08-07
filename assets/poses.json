@@ -1,0 +1,21 @@
+[
+  {
+    "name": "intro",
+    "duration": 23,
+    "image": "assets/images/Base.png",
+    "audio": "audio/Copy of CatCOwIntro.mp3"
+  },
+  {
+    "name": "breath_cycle",
+    "duration": 20,
+    "image": "assets/images/Copy of Cat.png",
+    "audio": "audio/Copy of CatCOwLoop.mp3"
+  },
+
+  {
+    "name": "breath_cycle",
+    "duration": 20,
+    "image": "assets/images/Copy of Cow.png",
+    "audio": "audio/Copy of CatCowOutro.mp3"
+  }
+]
